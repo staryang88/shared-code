@@ -1,0 +1,8 @@
+﻿  bdatabase.cpp
+  book.cpp
+  library.cpp
+  rdatabase.cpp
+  reader.cpp
+  正在生成代码...
+D:\VS-Studio\图书管理系统\图书管理系统\reader.cpp(68): warning C4715: “Reader::retbook”: 不是所有的控件路径都返回值
+  图书管理系统.vcxproj -> D:\VS-Studio\图书管理系统\图书管理系统\Debug\图书管理系统.exe
